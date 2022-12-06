@@ -1,9 +1,45 @@
+/* IMPORT FONT STYLE */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&family=Raleway&display=swap');
+
 /* MAIN STYLE */
 html {
-    background-color: #7ABFBF;
+  background-color: #7ABFBF;
 }
 
 body {
-    background-color: #F2F2F2;
+  background-color: #F2F2F2;
+  margin: 0 auto;
+  width: 500px;
 }
 
+header {
+  visibility: hidden;
+}
+
+#streettacos {
+  padding: 10px;
+}
+
+#streettacos img {
+  padding: 0px;
+}
+
+h1, h2, h3, figcaption, footer {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+p, dd, nav, input {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+dt {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
