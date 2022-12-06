@@ -19,6 +19,23 @@ header {
 
 #streettacos {
   padding: 10px;
+  width: 414px;
+}
+
+#streettacos ul {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  padding: 0px;
+}
+
+#streettacos li {
+  display: inline-block;
+  padding: 0px;
+}
+
+#streettacos a {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
 }
 
 #streettacos img {
