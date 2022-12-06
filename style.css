@@ -23,6 +23,7 @@ header {
 
 #streettacos img {
   padding: 0px;
+  width: 500px;
 }
 
 h1, h2, h3, figcaption, footer {
