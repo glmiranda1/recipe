@@ -4,7 +4,7 @@
 
 /* MAIN STYLE */
 html {
-  background-color: #7ABFBF;
+  background-color: rgba(122,191,191,0.5);
 }
 
 body {
@@ -95,4 +95,8 @@ dl {
 
 li {
   padding: 5px;
+}
+
+#fullmenu {
+  background-color: #7ABFBF;
 }
