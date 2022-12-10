@@ -92,3 +92,7 @@ dl {
   grid-template-columns: 1fr 1fr;
   margin: 10px;
 }
+
+li {
+  padding: 5px;
+}
