@@ -118,10 +118,14 @@ li {
   font-size: 0px;
 }
 
+.menuitem {
+  clear: both;
+}
+
 .menuitem div > h4 {
   clear: both;
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 
 .menuitem aside {
@@ -141,5 +145,5 @@ footer {
 
 footer img {
   margin: auto;
-  width: 150px;
+  width: 250px;
 }
