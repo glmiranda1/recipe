@@ -118,6 +118,10 @@ li {
   font-size: 0px;
 }
 
+.menuitem {
+  margin: 5px;
+}
+
 .menuitem div > h4 {
   display: block;
   position: relative;
