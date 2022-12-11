@@ -118,24 +118,21 @@ li {
   font-size: 0px;
 }
 
-.menuitem {
-  clear: both;
-}
-
 .menuitem div > h4 {
-  clear: both;
-  display: inline-block;
-  margin-left: 40px;
+  display: block;
+  position: relative;
+  left: 50px;
 }
 
 .menuitem aside {
-  display: inline-block;
-  margin-left: 50px;
+  display: block;
+  padding: 0px;
+  position: relative;
+  left: 50px;
 }
 
 .menuitem img {
   position: relative;
-  float: left;
   width: 25%;
 }
 
