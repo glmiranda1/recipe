@@ -101,13 +101,21 @@ li {
   padding: 5px;
 }
 
+#fullmenu {
+  background-color: #7ABFBF;
+}
+
 #fullmenu div {
   display: grid;
   grid-template-columns: 1fr;
-}
+}  
 
 #fullmenu h5 {
   font-size: 0px;
+}
+
+#fullmenu img {
+  width: 25px;
 }
 
 footer {
@@ -116,5 +124,5 @@ footer {
 
 footer img {
   margin: auto;
-  width: 100px;
+  width: 150px;
 }
