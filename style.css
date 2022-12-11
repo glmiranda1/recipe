@@ -136,7 +136,7 @@ li {
 .menuitem img {
   position: relative;
   float: left;
-  width: 50%;
+  width: 25%;
 }
 
 footer {
@@ -177,14 +177,16 @@ footer img {
   padding-left: 15px;
 }
 
-/* SCALE OF 768PX */
+/*
+
+/* SCALE OF 768PX
 @media screen and (min-width:768px) {
   body {
    width: 768px;
 }
 }
 
-/* SCALE OF 1280PX */
+/* SCALE OF 1280PX
 @media screen and (min-width:1280px) {
   body {
     width: 1280px;
@@ -209,3 +211,5 @@ footer img {
    display: block;
 }
 }
+
+*/
