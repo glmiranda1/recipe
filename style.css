@@ -147,3 +147,32 @@ footer img {
   margin: auto;
   width: 250px;
 }
+
+#socialmedia ul {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  padding: 0px;
+}
+
+#socialmedia li {
+  display: inline-block;
+  padding: 0px;
+}
+
+#socialmedia a {
+  color: #EB5428;
+  display: grid;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 16px;
+  grid-template-rows: 1fr 1fr;
+  text-decoration: none;
+}
+
+#socialmedia li {
+  margin: 15px;
+  text-align: center;
+}
+
+#socialmedia svg {
+  padding-left: 15px;
+}
