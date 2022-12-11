@@ -176,3 +176,36 @@ footer img {
 #socialmedia svg {
   padding-left: 15px;
 }
+
+/* SCALE OF 768PX */
+@media screen and (min-width:768px) {
+  body {
+   width: 768px;
+}
+}
+
+/* SCALE OF 1280PX */
+@media screen and (min-width:1280px) {
+  body {
+    width: 1280px;
+}
+  
+  #streettacos {
+   width: 1280px;
+}
+  
+  #streettacos h2 {
+   position: relative;
+   text-align: center;
+   top: 0px;
+}
+  
+  #streettacos div {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+}
+  
+  #streettacos ul {
+   display: block;
+}
+}
