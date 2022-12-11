@@ -105,16 +105,24 @@ li {
   background-color: #7ABFBF;
 }
 
-#fullmenu div {
-  display: grid;
-  grid-template-columns: 1fr;
-}  
-
 #fullmenu h5 {
   font-size: 0px;
 }
 
-#fullmenu img {
+.menuitem div > h4 {
+  clear: both;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.menuitem aside {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.menuitem img {
+  position: relative;
+  float: left;
   width: 25px;
 }
 
