@@ -50,6 +50,15 @@ header {
   padding: 10px;
 }
 
+#streettacos li {
+  margin: 15px;
+  text-align: center;
+}
+
+#streettacos svg {
+  padding-left: 15px;
+}
+
 h1, h2, h3, h4, h5 {
   font-family: 'Bebas Neue', sans-serif;
 }
