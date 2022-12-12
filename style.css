@@ -125,7 +125,7 @@ li {
 .menuitem div > h4 {
   display: block;
   position: relative;
-  left: 50px;
+  left: 100px;
 }
 
 .menuitem aside {
@@ -133,7 +133,7 @@ li {
   margin-bottom: -10px;
   margin-top: -10px;
   position: relative;
-  left: 50px;
+  left: 100px;
 }
 
 .menuitem img {
