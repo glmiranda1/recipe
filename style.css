@@ -149,6 +149,21 @@ footer img {
   width: 250px;
 }
 
+nav li{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+nav a {
+  color: #EB5428;
+  display: grid;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 16px;
+  grid-template-rows: 1fr 1fr;
+  text-decoration: none;
+}
+
 #socialmedia ul {
   display: grid;
   grid-template-columns: repeat(4, 25%);
