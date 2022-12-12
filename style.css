@@ -158,6 +158,8 @@ footer img {
 #socialmedia li {
   display: inline-block;
   padding: 0px;
+  margin: 15px;
+  text-align: center;
 }
 
 #socialmedia a {
@@ -167,11 +169,6 @@ footer img {
   font-size: 16px;
   grid-template-rows: 1fr 1fr;
   text-decoration: none;
-}
-
-#socialmedia li {
-  margin: 15px;
-  text-align: center;
 }
 
 #socialmedia svg {
