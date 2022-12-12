@@ -149,6 +149,19 @@ footer img {
   width: 250px;
 }
 
+nav {
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+nav ul {
+  position: relative;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
 nav li{
   display: block;
   margin: auto;
